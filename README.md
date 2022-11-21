@@ -3,12 +3,12 @@
 
 EDA Topics
 -------------------------------------
-1. DEDA with Matplotlib and Seaborn
+1. EDA with Matplotlib and Seaborn
 
-2. DEDA with D-Tale
+2. EDA with D-Tale
 
-3. DEDA with SweetViz
+3. EDA with SweetViz
 
-4. DEDA with AutoViz
+4. EDA with AutoViz
 
-5. DEDA with PandasProfiling
+5. EDA with PandasProfiling
