@@ -12,3 +12,5 @@ EDA Topics
 4. EDA with AutoViz
 
 5. EDA with PandasProfiling
+
+6. EDA with Klib
