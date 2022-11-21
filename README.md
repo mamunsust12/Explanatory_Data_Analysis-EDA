@@ -13,4 +13,6 @@ EDA Topics
 
 5. EDA with PandasProfiling
 
-6. EDA with Klib
+6. EDA with pandas_vidual_analysis
+
+7. EDA with Klib
