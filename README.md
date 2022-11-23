@@ -15,4 +15,10 @@ EDA Topics
 
 6. EDA with pandas_vidual_analysis
 
-7. EDA with Klib
+7. EDA with DataPrep
+
+8. EDA with Lux
+
+9. EDA with etc.
+
+10. EDA, clean, analyze and Vidualize with Klib
